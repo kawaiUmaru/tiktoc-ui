@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kawaiUmaru/tiktoc-ui/static/css/main.073c9b0a.css",
+    "main.js": "/kawaiUmaru/tiktoc-ui/static/js/main.8842ef8f.js",
+    "static/js/787.4c9d15e8.chunk.js": "/kawaiUmaru/tiktoc-ui/static/js/787.4c9d15e8.chunk.js",
+    "static/media/logo.svg": "/kawaiUmaru/tiktoc-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kawaiUmaru/tiktoc-ui/index.html",
+    "main.073c9b0a.css.map": "/kawaiUmaru/tiktoc-ui/static/css/main.073c9b0a.css.map",
+    "main.8842ef8f.js.map": "/kawaiUmaru/tiktoc-ui/static/js/main.8842ef8f.js.map",
+    "787.4c9d15e8.chunk.js.map": "/kawaiUmaru/tiktoc-ui/static/js/787.4c9d15e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8842ef8f.js"
+  ]
+}
